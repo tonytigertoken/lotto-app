@@ -1,0 +1,2 @@
+# lotto-app
+Lottery app
